@@ -25,4 +25,5 @@
 2. Calculate MoM growth to assess the rate of change in product sales.
 3. Analyze quantity differences to pinpoint specific periods of growth or decline.
 
-![image](https://github.com/user-attachments/assets/ead7325f-a731-4aad-9e79-e9de3b01ab81)
+![image](https://github.com/user-attachments/assets/74477fb9-949d-4600-a82a-d14da8f95cbf)
+
